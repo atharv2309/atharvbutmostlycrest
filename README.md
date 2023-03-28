@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atharvbutmostlycrest
+- 👋 Hi, I’m Atharv
 - 👀 I’m interested in Cybersecurity and network engineering.
 - 🌱 I’m currently learning L2 network configuration and security, I also possess a growing interest in Data Analysis using Machine Learning
 - 📫 How to reach me, you can mail me on atharvswarge@gmail.com or also follow this link to connect with me on LinkedIn
